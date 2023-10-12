@@ -23,7 +23,5 @@ public class LargestNumber {
              max = c;
         }
         System.out.println("The largest number is " + max);
-
-
     }
 }
