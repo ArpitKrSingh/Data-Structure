@@ -20,7 +20,7 @@ public class ReverseTheNumber {
 
             ans = ans * 10 + mod;
         }
-        System.out.println("The reverse of the nunber will be " + ans);
+        System.out.println("The reverse of the number will be " + ans);
 
     }
 }
